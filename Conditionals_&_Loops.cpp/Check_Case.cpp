@@ -8,7 +8,7 @@
     Input format :
     Single Character
     
-    Output format :
+    Output format:
     1 or 0 or -1
 */
 
